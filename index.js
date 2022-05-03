@@ -109,7 +109,7 @@ function nested(numbers) {
 
 
 // 7) -------------------------------------------------------
-let numbers2`` = [76,35,73,13,4,88,23,12,86,1,54,9,10,2]
+let numbers2 = [76,35,73,13,4,88,23,12,86,1,54,9,10,2]
 // remember numbers could be reassigned, added to, etc.
 let newNumbersA = numbers.filter((num) => {
   return num < 5
